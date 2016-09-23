@@ -1,0 +1,298 @@
+*******************************************************
+*                                                     *
+*                    - ESPResSo -                     *
+*                    ============                     *
+*        A Parallel Molecular Dynamics Program        *
+*                                                     *
+* (c) 2010,2011,2012,2013                             *
+*     The ESPResSo project                            *
+*                                                     *
+* (c) 2002,2003,2004,2005,2006,2007,2008,2009,2010    *
+*     Max-Planck-Institute for Polymer Research       *
+*     Mainz, Germany                                  *
+*                                                     *
+*******************************************************
+
+This is ESPResSo-3.3.1.
+
+ESPResSo is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+ESPResSo is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Warm 1/10
+Warm 2/10
+Warm 3/10
+Warm 4/10
+Warm 5/10
+Warm 6/10
+Warm 7/10
+Warm 8/10
+Warm 9/10
+Warm 10/10
+Equilibration 1/100
+Equilibration 2/100
+Equilibration 3/100
+Equilibration 4/100
+Equilibration 5/100
+Equilibration 6/100
+Equilibration 7/100
+Equilibration 8/100
+Equilibration 9/100
+Equilibration 10/100
+Equilibration 11/100
+Equilibration 12/100
+Equilibration 13/100
+Equilibration 14/100
+Equilibration 15/100
+Equilibration 16/100
+Equilibration 17/100
+Equilibration 18/100
+Equilibration 19/100
+Equilibration 20/100
+Equilibration 21/100
+Equilibration 22/100
+Equilibration 23/100
+Equilibration 24/100
+Equilibration 25/100
+Equilibration 26/100
+Equilibration 27/100
+Equilibration 28/100
+Equilibration 29/100
+Equilibration 30/100
+Equilibration 31/100
+Equilibration 32/100
+Equilibration 33/100
+Equilibration 34/100
+Equilibration 35/100
+Equilibration 36/100
+Equilibration 37/100
+Equilibration 38/100
+Equilibration 39/100
+Equilibration 40/100
+Equilibration 41/100
+Equilibration 42/100
+Equilibration 43/100
+Equilibration 44/100
+Equilibration 45/100
+Equilibration 46/100
+Equilibration 47/100
+Equilibration 48/100
+Equilibration 49/100
+Equilibration 50/100
+Equilibration 51/100
+Equilibration 52/100
+Equilibration 53/100
+Equilibration 54/100
+Equilibration 55/100
+Equilibration 56/100
+Equilibration 57/100
+Equilibration 58/100
+Equilibration 59/100
+Equilibration 60/100
+Equilibration 61/100
+Equilibration 62/100
+Equilibration 63/100
+Equilibration 64/100
+Equilibration 65/100
+Equilibration 66/100
+Equilibration 67/100
+Equilibration 68/100
+Equilibration 69/100
+Equilibration 70/100
+Equilibration 71/100
+Equilibration 72/100
+Equilibration 73/100
+Equilibration 74/100
+Equilibration 75/100
+Equilibration 76/100
+Equilibration 77/100
+Equilibration 78/100
+Equilibration 79/100
+Equilibration 80/100
+Equilibration 81/100
+Equilibration 82/100
+Equilibration 83/100
+Equilibration 84/100
+Equilibration 85/100
+Equilibration 86/100
+Equilibration 87/100
+Equilibration 88/100
+Equilibration 89/100
+Equilibration 90/100
+Equilibration 91/100
+Equilibration 92/100
+Equilibration 93/100
+Equilibration 94/100
+Equilibration 95/100
+Equilibration 96/100
+Equilibration 97/100
+Equilibration 98/100
+Equilibration 99/100
+Equilibration 100/100
+Simulation 1/1000
+Simulation 2/1000
+Simulation 3/1000
+Simulation 4/1000
+Simulation 5/1000
+Simulation 6/1000
+Simulation 7/1000
+Simulation 8/1000
+Simulation 9/1000
+Simulation 10/1000
+Simulation 11/1000
+Simulation 12/1000
+Simulation 13/1000
+Simulation 14/1000
+Simulation 15/1000
+Simulation 16/1000
+Simulation 17/1000
+Simulation 18/1000
+Simulation 19/1000
+Simulation 20/1000
+Simulation 21/1000
+Simulation 22/1000
+Simulation 23/1000
+Simulation 24/1000
+Simulation 25/1000
+Simulation 26/1000
+Simulation 27/1000
+Simulation 28/1000
+Simulation 29/1000
+Simulation 30/1000
+Simulation 31/1000
+Simulation 32/1000
+Simulation 33/1000
+Simulation 34/1000
+Simulation 35/1000
+Simulation 36/1000
+Simulation 37/1000
+Simulation 38/1000
+Simulation 39/1000
+Simulation 40/1000
+Simulation 41/1000
+Simulation 42/1000
+Simulation 43/1000
+Simulation 44/1000
+Simulation 45/1000
+Simulation 46/1000
+Simulation 47/1000
+Simulation 48/1000
+Simulation 49/1000
+Simulation 50/1000
+Simulation 51/1000
+Simulation 52/1000
+Simulation 53/1000
+Simulation 54/1000
+Simulation 55/1000
+Simulation 56/1000
+Simulation 57/1000
+Simulation 58/1000
+Simulation 59/1000
+Simulation 60/1000
+Simulation 61/1000
+Simulation 62/1000
+Simulation 63/1000
+Simulation 64/1000
+Simulation 65/1000
+Simulation 66/1000
+Simulation 67/1000
+Simulation 68/1000
+Simulation 69/1000
+Simulation 70/1000
+Simulation 71/1000
+Simulation 72/1000
+Simulation 73/1000
+Simulation 74/1000
+Simulation 75/1000
+Simulation 76/1000
+Simulation 77/1000
+Simulation 78/1000
+Simulation 79/1000
+Simulation 80/1000
+Simulation 81/1000
+Simulation 82/1000
+Simulation 83/1000
+Simulation 84/1000
+Simulation 85/1000
+Simulation 86/1000
+Simulation 87/1000
+Simulation 88/1000
+Simulation 89/1000
+Simulation 90/1000
+Simulation 91/1000
+Simulation 92/1000
+Simulation 93/1000
+Simulation 94/1000
+Simulation 95/1000
+Simulation 96/1000
+Simulation 97/1000
+Simulation 98/1000
+Simulation 99/1000
+Simulation 100/1000
+Simulation 101/1000
+Simulation 102/1000
+Simulation 103/1000
+Simulation 104/1000
+Simulation 105/1000
+Simulation 106/1000
+Simulation 107/1000
+Simulation 108/1000
+Simulation 109/1000
+Simulation 110/1000
+Simulation 111/1000
+Simulation 112/1000
+Simulation 113/1000
+Simulation 114/1000
+Simulation 115/1000
+Simulation 116/1000
+Simulation 117/1000
+Simulation 118/1000
+Simulation 119/1000
+Simulation 120/1000
+Simulation 121/1000
+Simulation 122/1000
+Simulation 123/1000
+Simulation 124/1000
+Simulation 125/1000
+Simulation 126/1000
+Simulation 127/1000
+Simulation 128/1000
+Simulation 129/1000
+Simulation 130/1000
+Simulation 131/1000
+Simulation 132/1000
+Simulation 133/1000
+Simulation 134/1000
+Simulation 135/1000
+Simulation 136/1000
+Simulation 137/1000
+Simulation 138/1000
+Simulation 139/1000
+Simulation 140/1000
+Simulation 141/1000
+Simulation 142/1000
+Simulation 143/1000
+Simulation 144/1000
+Simulation 145/1000
+Simulation 146/1000
+background_errors 0 {000 caught signal 2} 
+    while executing
+"integrate 8000"
+    ("for" body line 3)
+    invoked from within
+"for { set krok 1 } { $krok <= $steps } { incr krok 1 } {
+ puts "Simulation $krok/$steps"
+ integrate 8000
+ writevcf $vtf_file folded
+ #############
+ ##..."
+    (file "brush.tcl" line 120)

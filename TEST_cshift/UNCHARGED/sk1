@@ -1,0 +1,4 @@
+#!/bin/bash
+./P_yIxI.sh $1 0 > o
+./P_yIxI.sh $1 5 > oo
+plot.sh o oo 0.35

@@ -1,0 +1,241 @@
+*******************************************************
+*                                                     *
+*                    - ESPResSo -                     *
+*                    ============                     *
+*        A Parallel Molecular Dynamics Program        *
+*                                                     *
+* (c) 2010,2011,2012,2013                             *
+*     The ESPResSo project                            *
+*                                                     *
+* (c) 2002,2003,2004,2005,2006,2007,2008,2009,2010    *
+*     Max-Planck-Institute for Polymer Research       *
+*     Mainz, Germany                                  *
+*                                                     *
+*******************************************************
+
+This is ESPResSo-3.3.1.
+
+ESPResSo is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+ESPResSo is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+0.0001 4.6415114628371885
+Warm 1/10
+Warm 2/10
+Warm 3/10
+Warm 4/10
+Warm 5/10
+Warm 6/10
+Warm 7/10
+Warm 8/10
+Warm 9/10
+Warm 10/10
+Equilibration 1/100
+Equilibration 2/100
+Equilibration 3/100
+Equilibration 4/100
+Equilibration 5/100
+Equilibration 6/100
+Equilibration 7/100
+Equilibration 8/100
+Equilibration 9/100
+Equilibration 10/100
+Equilibration 11/100
+Equilibration 12/100
+Equilibration 13/100
+Equilibration 14/100
+Equilibration 15/100
+Equilibration 16/100
+Equilibration 17/100
+Equilibration 18/100
+Equilibration 19/100
+Equilibration 20/100
+Equilibration 21/100
+Equilibration 22/100
+Equilibration 23/100
+Equilibration 24/100
+Equilibration 25/100
+Equilibration 26/100
+Equilibration 27/100
+Equilibration 28/100
+Equilibration 29/100
+Equilibration 30/100
+Equilibration 31/100
+Equilibration 32/100
+Equilibration 33/100
+Equilibration 34/100
+Equilibration 35/100
+Equilibration 36/100
+Equilibration 37/100
+Equilibration 38/100
+Equilibration 39/100
+Equilibration 40/100
+Equilibration 41/100
+Equilibration 42/100
+Equilibration 43/100
+Equilibration 44/100
+Equilibration 45/100
+Equilibration 46/100
+Equilibration 47/100
+Equilibration 48/100
+Equilibration 49/100
+Equilibration 50/100
+Equilibration 51/100
+Equilibration 52/100
+Equilibration 53/100
+Equilibration 54/100
+Equilibration 55/100
+Equilibration 56/100
+Equilibration 57/100
+Equilibration 58/100
+Equilibration 59/100
+Equilibration 60/100
+Equilibration 61/100
+Equilibration 62/100
+Equilibration 63/100
+Equilibration 64/100
+Equilibration 65/100
+Equilibration 66/100
+Equilibration 67/100
+Equilibration 68/100
+Equilibration 69/100
+Equilibration 70/100
+Equilibration 71/100
+Equilibration 72/100
+Equilibration 73/100
+Equilibration 74/100
+Equilibration 75/100
+Equilibration 76/100
+Equilibration 77/100
+Equilibration 78/100
+Equilibration 79/100
+Equilibration 80/100
+Equilibration 81/100
+Equilibration 82/100
+Equilibration 83/100
+Equilibration 84/100
+Equilibration 85/100
+Equilibration 86/100
+Equilibration 87/100
+Equilibration 88/100
+Equilibration 89/100
+Equilibration 90/100
+Equilibration 91/100
+Equilibration 92/100
+Equilibration 93/100
+Equilibration 94/100
+Equilibration 95/100
+Equilibration 96/100
+Equilibration 97/100
+Equilibration 98/100
+Equilibration 99/100
+Equilibration 100/100
+Simulation 1/100
+Simulation 2/100
+Simulation 3/100
+Simulation 4/100
+Simulation 5/100
+Simulation 6/100
+Simulation 7/100
+Simulation 8/100
+Simulation 9/100
+Simulation 10/100
+Simulation 11/100
+Simulation 12/100
+Simulation 13/100
+Simulation 14/100
+Simulation 15/100
+Simulation 16/100
+Simulation 17/100
+Simulation 18/100
+Simulation 19/100
+Simulation 20/100
+Simulation 21/100
+Simulation 22/100
+Simulation 23/100
+Simulation 24/100
+Simulation 25/100
+Simulation 26/100
+Simulation 27/100
+Simulation 28/100
+Simulation 29/100
+Simulation 30/100
+Simulation 31/100
+Simulation 32/100
+Simulation 33/100
+Simulation 34/100
+Simulation 35/100
+Simulation 36/100
+Simulation 37/100
+Simulation 38/100
+Simulation 39/100
+Simulation 40/100
+Simulation 41/100
+Simulation 42/100
+Simulation 43/100
+Simulation 44/100
+Simulation 45/100
+Simulation 46/100
+Simulation 47/100
+Simulation 48/100
+Simulation 49/100
+Simulation 50/100
+Simulation 51/100
+Simulation 52/100
+Simulation 53/100
+Simulation 54/100
+Simulation 55/100
+Simulation 56/100
+Simulation 57/100
+Simulation 58/100
+Simulation 59/100
+Simulation 60/100
+Simulation 61/100
+Simulation 62/100
+Simulation 63/100
+Simulation 64/100
+Simulation 65/100
+Simulation 66/100
+Simulation 67/100
+Simulation 68/100
+Simulation 69/100
+Simulation 70/100
+Simulation 71/100
+Simulation 72/100
+Simulation 73/100
+Simulation 74/100
+Simulation 75/100
+Simulation 76/100
+Simulation 77/100
+Simulation 78/100
+Simulation 79/100
+Simulation 80/100
+Simulation 81/100
+Simulation 82/100
+Simulation 83/100
+Simulation 84/100
+Simulation 85/100
+Simulation 86/100
+Simulation 87/100
+Simulation 88/100
+Simulation 89/100
+Simulation 90/100
+Simulation 91/100
+Simulation 92/100
+Simulation 93/100
+Simulation 94/100
+Simulation 95/100
+Simulation 96/100
+Simulation 97/100
+Simulation 98/100
+Simulation 99/100
+Simulation 100/100

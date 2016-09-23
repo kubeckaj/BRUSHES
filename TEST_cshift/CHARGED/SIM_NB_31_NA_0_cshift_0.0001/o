@@ -1,0 +1,61 @@
+
+
+ Iteration 0
+ WSSR        : 458.827           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 1
+/
+
+ Iteration 1
+ WSSR        : 35.1494           delta(WSSR)/WSSR   : -12.0536
+ delta(WSSR) : -423.678          limit for stopping : 1e-05
+ lambda	  : 0.1
+
+resultant parameter values
+
+mean_y          = 3.03806
+/
+
+ Iteration 2
+ WSSR        : 35.1079           delta(WSSR)/WSSR   : -0.00118313
+ delta(WSSR) : -0.0415371        limit for stopping : 1e-05
+ lambda	  : 0.01
+
+resultant parameter values
+
+mean_y          = 3.05844
+/
+
+ Iteration 3
+ WSSR        : 35.1079           delta(WSSR)/WSSR   : -1.1829e-11
+ delta(WSSR) : -4.15291e-10      limit for stopping : 1e-05
+ lambda	  : 0.001
+
+resultant parameter values
+
+mean_y          = 3.05844
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 35.1079
+rel. change during last iteration : -1.1829e-11
+
+degrees of freedom    (FIT_NDF)                        : 99
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.595504
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.354625
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 3.05844          +/- 0.05955      (1.947%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+3.05844490017747
+0.592519295858199

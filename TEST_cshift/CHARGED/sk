@@ -1,0 +1,7 @@
+#!/bin/bash
+./P_yIxI.sh $1 $2 > o
+cd ../UNCHARGED/
+./P_yIxI.sh $1 $2 > oo
+cp oo ../CHARGED/oo
+cd ../CHARGED
+plot.sh o oo 0.35
