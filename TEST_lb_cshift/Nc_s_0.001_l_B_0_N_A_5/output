@@ -1,0 +1,99 @@
+--------------------------------------------------------------------------
+WARNING: It appears that your OpenFabrics subsystem is configured to only
+allow registering part of your physical memory.  This can cause MPI jobs to
+run with erratic performance, hang, and/or crash.
+
+This may be caused by your OpenFabrics vendor limiting the amount of
+physical memory that can be registered.  You should investigate the
+relevant Linux kernel module parameters that control how much physical
+memory can be registered, and increase them to allow registering all
+physical memory on your machine.
+
+See this Open MPI FAQ item for more information on these Linux kernel module
+parameters:
+
+    http://www.open-mpi.org/faq/?category=openfabrics#ib-locked-pages
+
+  Local host:              mandos1
+  Registerable memory:     24576 MiB
+  Total memory:            258473 MiB
+
+Your MPI job will continue, but may be behave poorly and/or hang.
+--------------------------------------------------------------------------
+*******************************************************
+*                                                     *
+*                    - ESPResSo -                     *
+*                    ============                     *
+*        A Parallel Molecular Dynamics Program        *
+*                                                     *
+* (c) 2010,2011,2012,2013                             *
+*     The ESPResSo project                            *
+*                                                     *
+* (c) 2002,2003,2004,2005,2006,2007,2008,2009,2010    *
+*     Max-Planck-Institute for Polymer Research       *
+*     Mainz, Germany                                  *
+*                                                     *
+*******************************************************
+
+This is ESPResSo-3.3.1.
+
+ESPResSo is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+ESPResSo is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+box size: 62 lb units
+koncentrace polymeru: 1.298782986208431 g/L
+koncentrace co-iontu: 0.0 mol/L
+1/1000 - warming up
+2/1000 - warming up
+3/1000 - warming up
+4/1000 - warming up
+5/1000 - warming up
+6/1000 - warming up
+7/1000 - warming up
+8/1000 - warming up
+9/1000 - warming up
+10/1000 - warming up
+Coulombic interaction - ON
+CAS=0 s (tj. 0 min)
+[mandos1:63652] *** Process received signal ***
+[mandos1:63652] Signal: Segmentation fault (11)
+[mandos1:63652] Signal code: Address not mapped (1)
+[mandos1:63652] Failing at address: (nil)
+[mandos1:63652] [ 0] /lib/x86_64-linux-gnu/libpthread.so.0(+0xf8d0)[0x7f05a11c78d0]
+[mandos1:63652] [ 1] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4dab45]
+[mandos1:63652] [ 2] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4db215]
+[mandos1:63652] [ 3] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x476c1d]
+[mandos1:63652] [ 4] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x480d89]
+[mandos1:63652] [ 5] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x44fbdf]
+[mandos1:63652] [ 6] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4b95cd]
+[mandos1:63652] [ 7] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4deb22]
+[mandos1:63652] [ 8] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4dfb1f]
+[mandos1:63652] [ 9] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x43b8b9]
+[mandos1:63652] [10] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x43bafe]
+[mandos1:63652] [11] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x417989]
+[mandos1:63652] [12] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso(_Z16tclcommand_interPvP10Tcl_InterpiPPc+0x8a)[0x41896a]
+[mandos1:63652] [13] /software/tcltk-8.5/lib/libtcl8.5.so.0(TclInvokeStringCommand+0x7d)[0x7f05a4990bbd]
+[mandos1:63652] [14] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x34cfa)[0x7f05a4994cfa]
+[mandos1:63652] [15] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x76363)[0x7f05a49d6363]
+[mandos1:63652] [16] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x7e33f)[0x7f05a49de33f]
+[mandos1:63652] [17] /software/tcltk-8.5/lib/libtcl8.5.so.0(TclEvalObjEx+0x8b)[0x7f05a49970ab]
+[mandos1:63652] [18] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x40995)[0x7f05a49a0995]
+[mandos1:63652] [19] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x34cfa)[0x7f05a4994cfa]
+[mandos1:63652] [20] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x36725)[0x7f05a4996725]
+[mandos1:63652] [21] /software/tcltk-8.5/lib/libtcl8.5.so.0(Tcl_EvalEx+0x16)[0x7f05a4996fd6]
+[mandos1:63652] [22] /software/tcltk-8.5/lib/libtcl8.5.so.0(Tcl_FSEvalFileEx+0x207)[0x7f05a49fb4e7]
+[mandos1:63652] [23] /software/tcltk-8.5/lib/libtcl8.5.so.0(Tcl_Main+0x2a3)[0x7f05a4a00fe3]
+[mandos1:63652] [24] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4159f6]
+[mandos1:63652] [25] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf5)[0x7f05a0e29b45]
+[mandos1:63652] [26] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x416079]
+[mandos1:63652] *** End of error message ***

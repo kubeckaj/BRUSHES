@@ -1,0 +1,2 @@
+/var/spool/torque/mom_priv/jobs/12549482.arien.ics.muni.cz.SC: line 16:  2265 Segmentation fault      (core dumped) $ESPRESSO $WORKFILE > output 2>&1
+rm: cannot remove 'fft*': No such file or directory

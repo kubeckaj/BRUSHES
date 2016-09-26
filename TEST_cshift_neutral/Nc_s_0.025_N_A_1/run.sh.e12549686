@@ -1,0 +1,1 @@
+/var/spool/torque/mom_priv/jobs/12549686.arien.ics.muni.cz.SC: line 16: 29059 Segmentation fault      (core dumped) $ESPRESSO $WORKFILE > output 2>&1

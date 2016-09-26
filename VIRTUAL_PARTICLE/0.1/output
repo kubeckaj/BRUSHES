@@ -1,0 +1,125 @@
+*******************************************************
+*                                                     *
+*                    - ESPResSo -                     *
+*                    ============                     *
+*        A Parallel Molecular Dynamics Program        *
+*                                                     *
+* (c) 2010,2011,2012,2013                             *
+*     The ESPResSo project                            *
+*                                                     *
+* (c) 2002,2003,2004,2005,2006,2007,2008,2009,2010    *
+*     Max-Planck-Institute for Polymer Research       *
+*     Mainz, Germany                                  *
+*                                                     *
+*******************************************************
+
+This is ESPResSo-3.3.1.
+
+ESPResSo is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+ESPResSo is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+box size: 62 lb units
+koncentrace polymeru: 0.36272317632848067 g/L
+koncentrace co-iontu: 0.0 mol/L
+1/1000 - warming up
+2/1000 - warming up
+3/1000 - warming up
+4/1000 - warming up
+5/1000 - warming up
+6/1000 - warming up
+7/1000 - warming up
+8/1000 - warming up
+9/1000 - warming up
+10/1000 - warming up
+Coulombic interaction - ON
+CAS=2 s (tj. 0 min)
+P3M tune parameters: Accuracy goal = 1.00000e-04
+System: box_l = 6.20000e+01 # charged part = 32 Sum[q_i^2] = 3.20000e+01
+mesh cao r_cut_iL     alpha_L      err          rs_err     ks_err     time [ms]
+4    3   4.93548e-01 4.73789e+00 2.93122e-03 7.071e-05 2.930e-03 accuracy not achieved
+4    4   cao too large for this mesh
+10   3   4.93548e-01 4.73789e+00 1.39867e-04 7.071e-05 1.207e-04 accuracy not achieved
+10   4   4.27035e-01 5.51197e+00 9.98605e-05 7.071e-05 7.051e-05 0       
+10   5   3.81729e-01 6.19730e+00 9.98370e-05 7.071e-05 7.048e-05 0       
+10   6   3.60522e-01 6.57858e+00 9.93148e-05 7.071e-05 6.974e-05 0       
+10   7   3.47990e-01 6.82619e+00 9.97980e-05 7.071e-05 7.042e-05 0       
+16   4   2.82744e-01 8.47834e+00 9.99654e-05 7.071e-05 7.066e-05 0       
+16   3   3.78660e-01 6.24978e+00 9.99352e-05 7.071e-05 7.062e-05 0       
+16   5   2.51050e-01 9.59796e+00 9.95205e-05 7.071e-05 7.003e-05 0       
+16   2   4.27035e-01 5.51197e+00 3.97821e-04 7.071e-05 3.915e-04 accuracy not achieved
+22   4   2.14267e-01 1.13221e+01 9.94094e-05 7.071e-05 6.987e-05 1       
+22   3   2.82744e-01 8.47834e+00 1.05703e-04 7.071e-05 7.857e-05 accuracy not achieved
+22   5   1.88864e-01 1.29136e+01 9.91353e-05 7.071e-05 6.948e-05 1       
+22   6   1.77819e-01 1.37504e+01 9.89919e-05 7.071e-05 6.928e-05 1       
+22   7   1.71745e-01 1.42574e+01 9.90692e-05 7.071e-05 6.939e-05 1       
+28   4   1.73371e-01 1.41181e+01 9.95199e-05 7.071e-05 7.003e-05 3       
+28   3   1.88864e-01 1.29136e+01 1.94208e-04 7.071e-05 1.809e-04 accuracy not achieved
+28   5   1.51977e-01 1.61939e+01 9.94272e-05 7.071e-05 6.990e-05 3       
+28   6   1.43124e-01 1.72381e+01 9.83136e-05 7.071e-05 6.830e-05 3       
+28   7   1.37959e-01 1.79104e+01 9.90630e-05 7.071e-05 6.938e-05 3       
+
+resulting parameters:
+10   4   4.27035e-01 5.51197e+00 9.98605e-05 0       
+
+CAS=4 s (tj. 0 min)
+11/1000 - warming up 2
+12/1000 - warming up 2
+13/1000 - warming up 2
+14/1000 - warming up 2
+15/1000 - warming up 2
+16/1000 - warming up 2
+17/1000 - warming up 2
+18/1000 - warming up 2
+19/1000 - warming up 2
+20/1000 - warming up 2
+20/1000 - equlibrating
+21/1000 - equlibrating
+22/1000 - equlibrating
+23/1000 - equlibrating
+24/1000 - equlibrating
+25/1000 - equlibrating
+26/1000 - equlibrating
+27/1000 - equlibrating
+28/1000 - equlibrating
+29/1000 - equlibrating
+30/1000 - equlibrating
+31/1000 - equlibrating
+32/1000 - equlibrating
+33/1000 - equlibrating
+34/1000 - equlibrating
+35/1000 - equlibrating
+36/1000 - equlibrating
+37/1000 - equlibrating
+38/1000 - equlibrating
+39/1000 - equlibrating
+40/1000 - equlibrating
+41/1000 - equlibrating
+42/1000 - equlibrating
+43/1000 - equlibrating
+44/1000 - equlibrating
+45/1000 - equlibrating
+46/1000 - equlibrating
+47/1000 - equlibrating
+48/1000 - equlibrating
+background_errors 0 {086 particle coordinate out of range, pos = -1.583e+11, image box = -2135747472} {086 particle coordinate out of range, pos = 4.24588e+11, image box = -2123015361} {086 particle coordinate out of range, pos = -1.1752e+11, image box = -2135746837} {086 particle coordinate out of range, pos = 3.83808e+11, image box = -2102029967} 
+    while executing
+"integrate [expr $m1*10]"
+    ("for" body line 3)
+    invoked from within
+"for { set krok 20 } { $krok <= $l1 } { incr krok 1 } {
+ puts "$krok/$l1 - equlibrating"
+ integrate [expr $m1*10]
+ if { $centering == yes } {
+  #MOVE
+ ..."
+    (file "/storage/praha1/home/kubeckaj/BRUSHES/VIRTUAL_PARTICLE/0.1/brush.tcl" line 284)

@@ -1,0 +1,2 @@
+rm: cannot remove 'fft*': No such file or directory
+grep: mom_logs/log_1apl: Is a directory

@@ -1,0 +1,20 @@
+for Nc_s in 0.001 0.025 0.05 0.075 0.1 0.125;do
+ for l_B in 0 2 4 6 8;do 
+  for N_A in 0 1 2 3 4 5; do
+   dir=Nc_s_${Nc_s}_l_B_${l_B}_N_A_${N_A}   
+   #mkdir $dir 
+   cd $dir
+   cp ../../brush.tcl .
+   sed -i "s/Nc_s 0.25/Nc_s $Nc_s/" brush.tcl
+   sed -i "s/l_B 4/l_B $l_B/" brush.tcl
+   sed -i "s/N_A 0/N_A $N_A/" brush.tcl
+   #send.sh brush.tcl
+   #run.sh
+   cd RESULTS
+   sed -i "s/t/1/" ch_distances
+   python ~/Utilities/average_t_X_Y_Z.py ch_distances
+   cd ..
+   cd ..
+  done
+ done
+done

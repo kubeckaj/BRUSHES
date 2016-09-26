@@ -1,0 +1,77 @@
+*******************************************************
+*                                                     *
+*                    - ESPResSo -                     *
+*                    ============                     *
+*        A Parallel Molecular Dynamics Program        *
+*                                                     *
+* (c) 2010,2011,2012,2013                             *
+*     The ESPResSo project                            *
+*                                                     *
+* (c) 2002,2003,2004,2005,2006,2007,2008,2009,2010    *
+*     Max-Planck-Institute for Polymer Research       *
+*     Mainz, Germany                                  *
+*                                                     *
+*******************************************************
+
+This is ESPResSo-3.3.1.
+
+ESPResSo is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+ESPResSo is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+box size: 62 lb units
+koncentrace polymeru: 1.298782986208431 g/L
+koncentrace co-iontu: 0.0 mol/L
+1/1000 - warming up
+2/1000 - warming up
+3/1000 - warming up
+4/1000 - warming up
+5/1000 - warming up
+6/1000 - warming up
+7/1000 - warming up
+8/1000 - warming up
+9/1000 - warming up
+10/1000 - warming up
+Coulombic interaction - ON
+CAS=2 s (tj. 0 min)
+[minos11:09504] *** Process received signal ***
+[minos11:09504] Signal: Segmentation fault (11)
+[minos11:09504] Signal code: Address not mapped (1)
+[minos11:09504] Failing at address: (nil)
+[minos11:09504] [ 0] /lib/x86_64-linux-gnu/libpthread.so.0(+0xf8d0)[0x7fc2a00678d0]
+[minos11:09504] [ 1] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4dab45]
+[minos11:09504] [ 2] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4db215]
+[minos11:09504] [ 3] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x476c1d]
+[minos11:09504] [ 4] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x480d89]
+[minos11:09504] [ 5] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x44fbdf]
+[minos11:09504] [ 6] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4b95cd]
+[minos11:09504] [ 7] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4deb22]
+[minos11:09504] [ 8] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4dfb1f]
+[minos11:09504] [ 9] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x43b8b9]
+[minos11:09504] [10] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x43bafe]
+[minos11:09504] [11] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x417989]
+[minos11:09504] [12] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso(_Z16tclcommand_interPvP10Tcl_InterpiPPc+0x8a)[0x41896a]
+[minos11:09504] [13] /software/tcltk-8.5/lib/libtcl8.5.so.0(TclInvokeStringCommand+0x7d)[0x7fc2a381dbbd]
+[minos11:09504] [14] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x34cfa)[0x7fc2a3821cfa]
+[minos11:09504] [15] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x76363)[0x7fc2a3863363]
+[minos11:09504] [16] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x7e33f)[0x7fc2a386b33f]
+[minos11:09504] [17] /software/tcltk-8.5/lib/libtcl8.5.so.0(TclEvalObjEx+0x8b)[0x7fc2a38240ab]
+[minos11:09504] [18] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x40995)[0x7fc2a382d995]
+[minos11:09504] [19] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x34cfa)[0x7fc2a3821cfa]
+[minos11:09504] [20] /software/tcltk-8.5/lib/libtcl8.5.so.0(+0x36725)[0x7fc2a3823725]
+[minos11:09504] [21] /software/tcltk-8.5/lib/libtcl8.5.so.0(Tcl_EvalEx+0x16)[0x7fc2a3823fd6]
+[minos11:09504] [22] /software/tcltk-8.5/lib/libtcl8.5.so.0(Tcl_FSEvalFileEx+0x207)[0x7fc2a38884e7]
+[minos11:09504] [23] /software/tcltk-8.5/lib/libtcl8.5.so.0(Tcl_Main+0x2a3)[0x7fc2a388dfe3]
+[minos11:09504] [24] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x4159f6]
+[minos11:09504] [25] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf5)[0x7fc29fcceb45]
+[minos11:09504] [26] /storage/praha1/home/kubeckaj/Utilities/espresso-3.3.1/build_P3M/Espresso[0x416079]
+[minos11:09504] *** End of error message ***

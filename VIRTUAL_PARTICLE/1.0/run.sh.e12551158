@@ -1,0 +1,4 @@
+mkdir: cannot create directory 'RESULTS': File exists
+mkdir: cannot create directory 'STRUCTURES': File exists
+mkdir: cannot create directory 'FUNCTIONS': File exists
+mkdir: cannot create directory 'CORRELATIONS': File exists

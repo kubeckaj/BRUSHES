@@ -1,0 +1,11 @@
+for move in 0.05 0.1 0.15 0.2 0.5 1.0
+do
+ dir=SIM_move_$move
+ mkdir $move
+ cd $move
+ cp ../../brush.tcl .
+
+ sed -i "s/move 0.1/move $move/" brush.tcl
+ send.sh brush.tcl
+ cd ..
+done

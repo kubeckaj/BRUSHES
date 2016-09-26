@@ -1,0 +1,12 @@
+for Nc_s in 0.001 0.025 0.05 0.075 0.1 0.125;do
+  for N_A in 0 1 2 3 4 5; do
+   dir=Nc_s_${Nc_s}_N_A_${N_A}   
+   mkdir $dir 
+   cd $dir
+   cp ../../brush.tcl .
+   sed -i "s/Nc_s 0.25/Nc_s $Nc_s/" brush.tcl
+   sed -i "s/N_A 0/N_A $N_A/" brush.tcl
+   send.sh brush.tcl
+   cd ..
+  done
+done
